@@ -78,8 +78,7 @@ Metrics aggregated:
 Final dataset exported as final_sales.csv
 
 Schema as specified in the problem statement:
-
-  -> date | product_identifier | total_units | total_revenue | data_source
+   * date | product_identifier | total_units | total_revenue | data_source
 
 
 ## Assumptions
@@ -106,8 +105,7 @@ Schema as specified in the problem statement:
      python pipeline.py OR in Google Colab:
 
 * Execute all cells sequentially
-
-3. Output file will be generated: final_sales.csv
+* Output file will be generated: final_sales.csv
 
 ## Tech Stack
 
